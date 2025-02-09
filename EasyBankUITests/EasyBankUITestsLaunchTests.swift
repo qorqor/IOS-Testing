@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class EasyBankUITestsLaunchTests: XCTestCase {
+class EasyBankUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
